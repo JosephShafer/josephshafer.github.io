@@ -1,3 +1,19 @@
+
+
+
+body {
+	background-color: ghostwhite;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	background-color: #f1f1f1;
+}
+
+
 .bakersfield-college-logo{
 	height: 10rem;
 }
@@ -6,3 +22,6 @@
 	height: 10rem;
 }
 
+.picture-of-myself {
+	height: 15rem;
+}
