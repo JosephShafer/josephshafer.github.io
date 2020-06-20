@@ -1,28 +1,31 @@
 body {
 	background-color: ghostwhite;
+	font-family: 'Roboto', sans-serif !important;
 }
 
 a {
-	text-decoration: none;
+	text-decoration: none !important;
+	font-size: 1.5em;
 }
 
 img {
 	box-shadow: 5px 7px 5px #574a4a;
 }
 
-.container {
-	background-color: #f1f1f1;
-}
 
 
 .bakersfield-college-logo{
-	height: 10rem;
+	height: 15rem;
 }
 
 .project-img{
 	max-height: 15rem;
 	min-height: 4rem;
 	margin: 1rem;
+}
+
+.content {
+	background-color: #f1f1f1;
 }
 
 .picture-of-myself {
@@ -33,3 +36,4 @@ img {
 	display: flex;  
 	flex-wrap: wrap;
 }
+
